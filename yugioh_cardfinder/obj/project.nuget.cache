@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWcxLJUXC9GaeSzD9sa5o2wm1/6F8+5URD61P2VfiCtqG/hpazcwKWaSkvGB5F8/OwTJi/ET1NvCdtAEZo0vkw==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\yugioh_cardfinder\\yugioh_cardfinder\\yugioh_cardfinder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kauti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kauti\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kauti\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kauti\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kauti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kauti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

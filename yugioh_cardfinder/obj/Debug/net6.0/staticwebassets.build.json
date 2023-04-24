@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1DNrZwO7pg8gLvpfP9bvx82duY9MPb3HVSGyvv6S9S0=",
+  "Source": "yugioh_cardfinder",
+  "BasePath": "_content/yugioh_cardfinder",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
